@@ -1,0 +1,5 @@
+applications:
+- name: IBMWorkshop-mit-tollen-Menschen
+  memory: 128M
+  host: sad-cori
+  buildpack: staticfile_buildpack
